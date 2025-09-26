@@ -14,8 +14,11 @@ RideWise is a Bike Rental Predictor app that predicts the number of bike rentals
 - scikit-learn (ML model)
 - pandas, numpy (data processing)
 
-## Installation
-1. Clone the repository:
+## Project Structure
+- `Ride.ipynb` → Jupyter Notebook with the bike rental prediction code
+- `README.md` → Project description and instructions
 
-```bash
-git clone https://github.com/chaitanyakasturi9/Sai_Chaitanya_Ridewise_Bike_Predictor.git
+## Installation
+- Clone the repository:
+  ```bash
+  git clone https://github.com/chaitanyakasturi9/Sai_Chaitanya_RideWise_Bike_Predictor.git
